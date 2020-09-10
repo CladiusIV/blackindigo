@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cba9d0e579b552fd6e1620e8c77f89e",
+    "revision": "c77d5cae4b4b671474cf052c34caa975",
     "url": "/blackindigo/index.html"
   },
   {
