@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blackindigo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/blackindigo/static/js/main.af274494.chunk.js",
+    "main.js.map": "/blackindigo/static/js/main.af274494.chunk.js.map",
+    "runtime-main.js": "/blackindigo/static/js/runtime-main.891df8a6.js",
+    "runtime-main.js.map": "/blackindigo/static/js/runtime-main.891df8a6.js.map",
+    "static/js/2.9f5bb4f0.chunk.js": "/blackindigo/static/js/2.9f5bb4f0.chunk.js",
+    "static/js/2.9f5bb4f0.chunk.js.map": "/blackindigo/static/js/2.9f5bb4f0.chunk.js.map",
+    "index.html": "/blackindigo/index.html",
+    "precache-manifest.c8f5da7bd4b17bca49dd5ca6588c46e6.js": "/blackindigo/precache-manifest.c8f5da7bd4b17bca49dd5ca6588c46e6.js",
+    "service-worker.js": "/blackindigo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/blackindigo/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/blackindigo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891df8a6.js",
+    "static/js/2.9f5bb4f0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.af274494.chunk.js"
+  ]
+}
